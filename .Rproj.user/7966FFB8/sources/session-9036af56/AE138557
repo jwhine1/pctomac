@@ -1,9 +1,9 @@
 {
     "id": "AE138557",
-    "path": null,
-    "project_path": null,
+    "path": "~/GitHub/pctomac/test.Rmd",
+    "project_path": "test.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "216197600",
     "contents": "",
     "dirty": false,
     "created": 1719269340099.0,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 4135253754756885857,
-    "encoding": "",
+    "lastKnownWriteTime": 1719269546,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1719269340099,
+    "last_content_update": 1719269546477,
     "read_only": false,
     "read_only_alternatives": []
 }
